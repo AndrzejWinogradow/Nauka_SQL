@@ -19,6 +19,7 @@ List of courses, workshops and tutorials can be read in acknowledgements
 - Git version 2.32.0.windows.2
 - Python 3.9.6
 - PyCharm 2021.1.3
+- SQLite 3.36.0
 - Visual Studio Code 1.58.2
 <!--  - Tech 1 - version 1.0
 - Tech 2 - version 2.0
