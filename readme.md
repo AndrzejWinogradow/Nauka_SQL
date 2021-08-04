@@ -74,7 +74,9 @@ To do:
 ## Acknowledgements
 List of courses, workshops and tutorials: 
 
-- 
+- [Python101 Centrum Edukacji Obywatelskiej Bednarz/Rybicka i inni](https://python101.readthedocs.io/pl/latest/index.html)
+- [MySQL Tutorial](https://programmingwithmosh.com/tag/sql/)
+- [SQL Tutorial - Full Database Course](https://www.freecodecamp.org/)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
