@@ -21,3 +21,7 @@ SELECT
 from films f 
     INNER JOIN distributors d 
         ON f.distributor_id = d.id;
+
+"""
+umiejętność wyciągnięcia z materialized view jakie tabele użyto
+"""
