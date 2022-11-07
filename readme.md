@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Certificates](#certificates)
 * [Technologies Used](#technologies-used) <!--  * [Features](#features)  --> <!--  * [Screenshots](#screenshots)  --> <!-- * [Setup](#setup) --> <!--  * [Usage](#usage) -->
 * [List of Projects with description](#list-of-projects-with-describtion)
 * [Project Status](#project-status) <!--  * [Room for Improvement](#room-for-improvement) -->
@@ -13,6 +14,10 @@
 ## General Information
 
 List of courses, workshops and tutorials can be read in acknowledgements
+
+## Certificates
+
+- [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-3baa106c-37cc-4aaa-9601-5484d7069cca/)
 
 ## Technologies Used
 
